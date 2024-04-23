@@ -7,3 +7,19 @@
 - Pandas Library
 - Matplotlib library
 - Numpy library
+### Data Cleaning 
+- Data cleaning was performed using Pandas library
+- After that we started analyzing cleaned data
+
+### Exploratory Data Analysis
+  
+### Data Analysis
+
+  some interesting codes
+
+  ~~~python
+  pd["columnname"]
+  ~~
+### Results/ Findings
+  
+### Recommendations
